@@ -61,7 +61,7 @@ const FeaturedCourses = () => {
                     </Link>
                 </div>
                 
-                <div>3</div>
+               
 
             </div>
 
